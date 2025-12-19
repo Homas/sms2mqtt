@@ -1,6 +1,6 @@
-# SMS-MQTT Bridge for Huawei LTE Routers
+# SMS-MQTT Bridge for Huawei E5372 (Мегафон MR100-3, МТС 823F, 826FT) Routers
 
-A Python script that pulls SMS messages from a Huawei LTE router via REST API and forwards new messages to an MQTT broker. Designed to run as a scheduled CRON task.
+A Python script that pulls SMS messages from a Huawei E5372 (Мегафон MR100-3, МТС 823F, 826FT) router via REST API and forwards new messages to an MQTT broker. Designed to run as a scheduled CRON task.
 
 ## Features
 
